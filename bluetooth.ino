@@ -1,6 +1,6 @@
-char data = 0;  
-void setup() {
+char data = 0;
 
+void setup() {
 Serial.begin(9600); 
 }
 
