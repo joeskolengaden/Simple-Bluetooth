@@ -8,7 +8,7 @@ void loop() {
  if(Serial.available() > 0)      // Send data only when you receive data:
    {
     data = Serial.read();       //read data from bluetooth
-    Serial.print(data); 
-    Serial.print("\n");
+    Serial.print(data);        //print data
+    Serial.print("\n");       //newline after each printing of recieved data
    }
 }
