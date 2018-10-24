@@ -1,2 +1,2 @@
 # bluetooth
-simple Bluetooth codes
+simple bluetooth codes
