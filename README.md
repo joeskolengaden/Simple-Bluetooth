@@ -1,3 +1,3 @@
-# bluetooth
+# Bluetooth
 
 simple Bluetooth codes
