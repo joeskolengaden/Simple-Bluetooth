@@ -1,4 +1,4 @@
 # Bluetooth
 
-simple Bluetooth codes
+simple Bluetooth Module codes
 
