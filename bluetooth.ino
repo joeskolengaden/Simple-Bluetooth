@@ -3,7 +3,7 @@ char data = 0;
 void setup() {
 Serial.begin(9600); 
 }
-
+//lpooooo////
 void loop() {
  if(Serial.available() > 0)      // Send data only when you receive data:
    {
